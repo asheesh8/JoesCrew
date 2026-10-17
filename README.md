@@ -4,6 +4,8 @@ Marketing site for Joe The Cleaner, a cleaning company based in St. Albans, Verm
 
 Next.js 16 (App Router, all routes static), Tailwind v4, Motion, Phosphor icons. No environment variables and no database.
 
+**Live:** https://joes-crew.vercel.app · **Stack:** Next.js (App Router) + React + TypeScript + Tailwind CSS. Lead capture is an embedded GoHighLevel form, so the app itself has no server code and reads no environment variables.
+
 ## Run it
 
 ```bash
